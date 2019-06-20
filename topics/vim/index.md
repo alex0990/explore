@@ -1,4 +1,4 @@
----
+Крамная Юлия Гусев ---
 created_by: Bram Moolenaar
 display_name: Vim
 github_url: https://github.com/vim/vim
